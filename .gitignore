@@ -4,6 +4,3 @@
 *.jar
 *.war
 *.ear
-/AvaliadorER/nbproject/private/
-/build/
-/dist/
